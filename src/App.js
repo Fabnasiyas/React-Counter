@@ -13,7 +13,7 @@ function App() {
           className="increment"
           onClick={() => {
             setCount(count + 1);
-          }}
+          }}   
         >
           +
         </button>
