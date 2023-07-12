@@ -20,7 +20,6 @@ for(let i=0;i<charcode.length;i++){
 }
 
 
-
 //     for(let j=122;j>=97;j--){
      
 //             if(charCodeAt(i)===j){
